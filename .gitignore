@@ -1,0 +1,14 @@
+# Dependency folders
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Secrets (IMPORTANT)
+.env
+server/.env
+
+# Build files
+client/dist/
+
+# OS files
+.DS_Store
